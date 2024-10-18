@@ -23,7 +23,7 @@ Este proyecto tiene como objetivo limpiar los datos y preparar un informe que br
 -  **re**: Módulo de expresiones regulares utilizado para la limpieza y procesamiento de texto en los datos.
 - **Jupyter Notebook**: Entorno interactivo para ejecutar y documentar el análisis.
 
-## Flujo del Proyecto
+## Flujo del Proyecto 🔄
 
 ### Carga de Datos
 - Se cargan los datos provenientes de fuentes abiertas sobre restaurantes en Los Ángeles.

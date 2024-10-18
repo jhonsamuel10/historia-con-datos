@@ -2,7 +2,7 @@
 
 Este proyecto tiene como objetivo limpiar los datos y preparar un informe que brinde información sobre las condiciones actuales del mercado de restaurantes en Los Ángeles. La idea es atraer a inversionistas para un prometedor, aunque costoso, café regentado por robots. Se busca determinar si se podrá mantener el éxito cuando la novedad de los camareros robot desaparezca.
 
-## Funcionalidades del Proyecto
+## :detective: Funcionalidades del Proyecto
 
 - **Análisis Exploratorio de Datos (EDA)** :
    Se exploran los datos para entender mejor las tendencias y patrones del mercado de restaurantes en Los Ángeles.

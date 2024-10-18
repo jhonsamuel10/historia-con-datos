@@ -17,11 +17,10 @@ Este proyecto tiene como objetivo limpiar los datos y preparar un informe que br
 
 - **Python**: Lenguaje principal para el análisis y procesamiento de datos.
 - **Pandas**: Librería utilizada para la manipulación y análisis de datos.
-- **NumPy**: Usada para realizar cálculos numéricos y manipulación de arreglos, facilitando el análisis de datos
+- **Plotly**: Utilizada para crear gráficos interactivos que mejoran la visualización de los resultados.
 - **Seaborn**: Librería empleada para crear visualizaciones efectivas y atractivas de los resultados.
-- **SciPy**: Utilizada para realizar pruebas estadísticas, como el análisis de hipótesis durante el test A/B.
-- **datetime**: Librería utilizada para manejar fechas y horas, lo cual es crucial para el análisis temporal.
 - **Matplotlib**: Librerías utilizadas para crear visualizaciones claras y efectivas de los datos.
+-  **re**: Módulo de expresiones regulares utilizado para la limpieza y procesamiento de texto en los datos.
 - **Jupyter Notebook**: Entorno interactivo para ejecutar y documentar el análisis.
 
 ## Flujo del Proyecto

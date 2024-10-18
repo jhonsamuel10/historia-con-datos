@@ -45,7 +45,7 @@ Este proyecto tiene como objetivo limpiar los datos y preparar un informe que br
 - Se visualizan las métricas clave que pueden influir en el éxito del negocio.
 
 
-## Ejecución
+## 🚀 Ejecución
 - Abre el archivo principal en Jupyter Notebook.
 - Ejecuta cada celda paso a paso para realizar la carga, limpieza, análisis y visualización de los datos relacionados con el mercado de restaurantes en Los Ángeles.
 - Observa las conclusiones sobre cómo las condiciones del mercado pueden impactar en el éxito del café.

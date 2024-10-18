@@ -13,7 +13,7 @@ Este proyecto tiene como objetivo limpiar los datos y preparar un informe que br
    Se crean gráficos y visualizaciones que ilustran claramente las condiciones del mercado y los factores que podrían influir en el éxito del café.
 
 
-## :tools:Tecnologías Utilizadas
+## :tool:Tecnologías Utilizadas
 
 - **Python**: Lenguaje principal para el análisis y procesamiento de datos.
 - **Pandas**: Librería utilizada para la manipulación y análisis de datos.
